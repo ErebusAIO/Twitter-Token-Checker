@@ -12,7 +12,7 @@
       </a>
     </p>
     <i><p>A fast, non-locking, and proxyless token checker for Twitter (X)</p></i>
-    <b>Looking for a cracker? <a href="https://t.me/ErebusAIO" target="_blank">t.me/ErebusAIO</a> | Telegram chat: <a href="https://t.me/+L1dxMq-zRIY5Nzc0" target="_blank">t.me/+L1dxMq-zRIY5Nzc0</a></b>
+    <b>Looking for a cracker? <a href="https://t.me/ErebusAIO" target="_blank">t.me/ErebusAIO</a> | Verona Twitter Market: <a href="https://t.me/+L1dxMq-zRIY5Nzc0" target="_blank">t.me/+L1dxMq-zRIY5Nzc0</a></b>
 </div>
 
 ## Usage
